@@ -1,8 +1,8 @@
-# Errors For Scala Cats Instances #
+# Errors For Scala (Core) Cats Instances #
 
 # ScalaDoc #
 
-[The Scaladoc for errors4s-core may be viewed here][javadoc].
+[The Scaladoc for @PROJECT_NAME@ may be viewed here][javadoc].
 
 [javadoc]: @SCALADOC_LINK@ "Scaladoc"
 
