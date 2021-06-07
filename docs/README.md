@@ -4,7 +4,7 @@
 
 [The Scaladoc for errors4s-core-cats may be viewed here][javadoc].
 
-[javadoc]: https://www.javadoc.io/doc/org.errors4s/errors4s-core-cats_3/1.0.0.0-RC0/index.html "Scaladoc"
+[javadoc]: https://www.javadoc.io/doc/org.errors4s/errors4s-core-cats_3/1.0.0.0/index.html "Scaladoc"
 
 # Overview #
 
@@ -18,7 +18,7 @@ This project provides [cats][cats] typeclass instances for [errors4s-core][error
 Add this to your `libraryDependencies` in your `build.sbt`.
 
 ```scala
-    "org.errors4s" %% "errors4s-core-cats" % "1.0.0.0-RC0"
+    "org.errors4s" %% "errors4s-core-cats" % "1.0.0.0"
 ```
 
 ```scala
