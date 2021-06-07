@@ -1,8 +1,8 @@
-# Errors For Scala Cats Instances #
+# Errors For Scala (Core) Cats Instances #
 
 # ScalaDoc #
 
-[The Scaladoc for errors4s-core may be viewed here][javadoc].
+[The Scaladoc for errors4s-core-cats may be viewed here][javadoc].
 
 [javadoc]: https://www.javadoc.io/doc/org.errors4s/errors4s-core-cats_3/1.0.0.0/index.html "Scaladoc"
 
